@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodiTriangoli", "metodiTriangoli\metodiTriangoli.csproj", "{5B9B9659-7EAA-4E06-9679-CB7D6230375F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangoliLibreria", "TriangoliLibreria\TriangoliLibreria.csproj", "{82C978AA-A56A-40D5-8F2C-648A30909106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B9B9659-7EAA-4E06-9679-CB7D6230375F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9B9659-7EAA-4E06-9679-CB7D6230375F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9B9659-7EAA-4E06-9679-CB7D6230375F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9B9659-7EAA-4E06-9679-CB7D6230375F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C978AA-A56A-40D5-8F2C-648A30909106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C978AA-A56A-40D5-8F2C-648A30909106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C978AA-A56A-40D5-8F2C-648A30909106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C978AA-A56A-40D5-8F2C-648A30909106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF4032B-F7DA-4AF4-867E-2DA56A2533B8}
+	EndGlobalSection
+EndGlobal
